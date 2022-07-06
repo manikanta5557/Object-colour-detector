@@ -12,3 +12,5 @@ As for colour detection that image will be converted to hsv colour space <br />
 Then different colour masks will be applied to the image to filter specific colours<br />
 After that contours will be detected for each colour masked part <br />
 based on the area some of the unwanted contours will be neglected and for remaining a bounding box will be drawn along with the colour name in the original image
+# Here is a samle output
+![alt text](https://github.com/Kashyap2502/Simple_colour_detection/blob/main/Results/markedballs.jpg?raw=true)
