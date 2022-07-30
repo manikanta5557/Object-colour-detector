@@ -1,4 +1,4 @@
-# Simple_colour_detection
+# colour_detection
 Colour detection is the process of detecting the name of any colour of the objects in the image. This project can detect the major colour of an object.<br />
 This will neglect the minute colour details in object and presents the major colour as the colour of whole object 
 # How to use
